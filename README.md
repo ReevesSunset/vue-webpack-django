@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# vue + webpack + django
-=======
 # vue-webpack-django
 >>>>>>> 41d6bb6806d97cdebb10a7f1470baa9926204144
 
@@ -20,8 +17,4 @@ python manage.py runserver
 
 # 第四步: 如下路径为vue项目的index.html
 http://127.0.0.1:8000/demo/
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> 41d6bb6806d97cdebb10a7f1470baa9926204144
