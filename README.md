@@ -1,5 +1,4 @@
 # vue-webpack-django
->>>>>>> 41d6bb6806d97cdebb10a7f1470baa9926204144
 
 > 参考:https://zhuanlan.zhihu.com/p/25080236
 
